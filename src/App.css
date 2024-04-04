@@ -1,0 +1,27 @@
+
+/************ Default Css ************/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 75px;
+}
+.header {
+  background-color: #007bff;
+  padding: 10px;
+  color: #fff;
+}
+
+body {
+  font-weight: 400;
+  overflow-x: hidden;
+  position: relative;
+
+  font-family: 'Centra', sans-serif !important;
+}
+
